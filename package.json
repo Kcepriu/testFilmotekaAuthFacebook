@@ -8,8 +8,8 @@
     "build": "parcel build src/*.html --public-url /testFilmotekaAuthFacebook/"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kcepriu/testFilmotekaAuthFacebook.git"
+    "type": "git",    
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
